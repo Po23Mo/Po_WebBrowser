@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/addtab.png</file>
+        <file>images/back.png</file>
+        <file>images/bookmark.png</file>
+        <file>images/forward.png</file>
+        <file>images/go.png</file>
+        <file>images/http.png</file>
+        <file>images/https_error.png</file>
+        <file>images/https_insecure.png</file>
+        <file>images/https_secure.png</file>
+        <file>images/menu.png</file>
+        <file>images/mhtml.png</file>
+        <file>images/pdf.png</file>
+        <file>images/PoWebBrowser.png</file>
+        <file>images/reload.png</file>
+        <file>images/unbookmark.png</file>
+    </qresource>
+</RCC>
